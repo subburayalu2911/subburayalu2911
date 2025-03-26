@@ -1,6 +1,6 @@
 for freelance work? do reach, [email](mailto:muthusamysubburayalu@gmail.com) :)
 
-📊 **this week i spent my time on:**
+<!-- 📊 **this week i spent my time on:**  -->
 <!--START_SECTION:waka-->
 
 <!-- ```txt
